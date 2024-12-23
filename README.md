@@ -19,9 +19,11 @@ Hanya dapat login menggunakan username, email, dan password yang sudah ditentuka
 alt="Login Page" width="300">
 
 Tampilan ketika admin berhasil menginputkan data
+
 <img src="https://github.com/user-attachments/assets/00b8d055-11b4-454a-a019-fe89ae022760" alt="Login berhasil" width="300">
 
 Tampilan ketika admin salah menginputkan data
+
 <img src="https://github.com/user-attachments/assets/eccbc1df-e433-421c-b760-a2ced79270e3" alt="Login gagal" width="300">
 
 Gambar di bawah ini adalah tampilan ketika sudah berhasil masuk ke home page
